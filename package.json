@@ -1,0 +1,23 @@
+{
+  "name": "wordpress-core",
+  "version": "1.0.0",
+  "description": "Default styles for wordpress wysiwyg content area",
+  "main": "wordpress-core.css",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1minus1limited/wordpress-core.git"
+  },
+  "keywords": [
+    "wordpress",
+    "core",
+    "styles"
+  ],
+  "author": "keithlight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1minus1limited/wordpress-core/issues"
+  },
+  "homepage": "https://github.com/1minus1limited/wordpress-core#readme"
+}
